@@ -1,0 +1,39 @@
+body{
+    
+    background-color: black;
+     color: white;
+     
+}
+h1{
+    margin: auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label{
+    margin-top: 100%;
+     margin-left: 47%;
+     height: 30px;
+     
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+input{
+     text-align:  center;
+     margin-left: 50%;
+     height: 25px;
+     width: 250px;
+}
+.but{
+    margin-left: 50%;
+     height: 25px;
+     width: 100px;
+       
+}
+.mamona{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 35%;
+    margin-right: 30%;
+
+}
